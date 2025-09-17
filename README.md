@@ -34,7 +34,7 @@ export CX1_CLIENT_SECRET="your-client-secret"
 
 ### Example
 ```bash
-./mass_recalc.sh mycompany us
+./mass_recalc.sh mytenant eu-2
 ```
 
 ## What the Script Does
